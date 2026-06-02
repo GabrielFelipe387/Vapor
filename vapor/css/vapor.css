@@ -1,0 +1,74 @@
+body {
+    background-image: url("../img/vapor.gif");
+    
+}
+
+.logo{ 
+    display: block;
+    margin: 0 auto 15px auto;
+    width: 150px;
+    height: auto;
+    opacity: 0.7;
+}
+
+.login-container {
+    width: 400px;
+    margin: 100px auto 0 auto;
+    padding: 40px;
+    border-radius: 10px;
+    background-color: #24272bd9;
+    color: white;
+}
+
+
+input { 
+    font-family: Arial, sans-serif;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 10px;
+
+}
+
+
+
+
+
+label{
+    display: block;
+    margin-bottom: 5px; /* controla distância do input */
+    margin-top: 15px;   /* separa um campo do outro */
+    font-family: Arial, sans-serif;
+}
+
+.register a{
+    display: flex;
+    text-align: left;
+    margin-top: 20px;
+    color: rgba(213, 205, 205, 0.858);
+    text-decoration: none;
+}
+
+button{
+    font-family: Arial, sans-serif;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+
+
+
+
+

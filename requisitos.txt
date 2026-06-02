@@ -1,0 +1,27 @@
+Projeto — Vapor
+📌 Nome do Sistema
+
+Vapor
+
+📌 Objetivo do Sistema
+
+Permitir que usuários realizem cadastro na plataforma e adicionem seus jogos favoritos para visualização.
+
+📌 Público-Alvo
+
+Gamers e jogadores que desejam pesquisar e visualizar seus jogos favoritos.
+
+📌 Problema que o Sistema Resolve
+
+O sistema permite que usuários encontrem e adicionem jogos favoritos em uma plataforma simples e organizada.
+
+✅ Requisitos Funcionais
+O sistema deve permitir cadastro de usuários.
+O sistema deve permitir login de usuários.
+O sistema deve permitir pesquisar jogos.
+O sistema deve permitir adicionar jogos favoritos.
+O sistema deve permitir visualizar jogos adicionados.
+✅ Requisitos Não Funcionais
+O sistema deve possuir interface agradável ao usuário.
+O sistema deve permitir navegação simples e intuitiva.
+O sistema deve apresentar bom desempenho durante o uso.
